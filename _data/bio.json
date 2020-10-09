@@ -1,0 +1,79 @@
+{
+  "basics": {
+    "name": "Risdiyanto",
+    "label": "Associate Android Development",
+    "picture": "https://risdiyantokarawang.github.io/cv/images/profile.jpg",
+    "email": "risdiyantokarawang@gmail.com",
+    "phone": "+62 8561864884",
+    "website": "https://mmaluhia.github.io",
+    "summary": "I am freelance android development.",
+    "location": {
+      "address": "",
+      "postalCode": "96822",
+      "city": "Karawang",
+      "countryCode": "INA",
+      "region": "Indonesia"
+    },
+    "profiles": [
+      {
+        "network": "github",
+        "username": "risdiyanto-studio",
+        "url": "http://github.com/changeme"
+      },
+      {
+        "network": "whatshat",
+        "username": "mollymaluhia",
+        "url": "http://linkedin.com/in/changeme"
+      },
+      {
+        "network": "twitter",
+        "username": "mollymal",
+        "url": "http://twitter.com/changeme"
+      },
+      {
+        "network": "instagram",
+        "username": "molly",
+        "url": "http://instagram.com/changeme"
+      }
+    ]
+  },
+  "interests": [
+    {
+      "name": "Android Development",
+      "keywords": [
+        "Android",
+        "App Inventor Extensions"
+      ]
+    
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "level": "",
+      "keywords": [
+        "C#",
+        "Java",
+        "Javascript",
+        "Python",
+        "PHP & SQL"
+      ]
+    },
+    {
+      "name": "OS",
+      "level": "",
+      "keywords": [
+        "Windows"
+        "Ubuntu",
+        "Git/GitHub",
+      ]
+    }
+  ],
+  
+  "work": [
+    {
+      "company": "Work at Home",
+      "position": "Android & Web Developer",
+      "website": ""
+    }
+  ]
+}
